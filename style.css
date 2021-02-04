@@ -1,0 +1,95 @@
+body{
+  background-image: url("assets/background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.contenitore{
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  background-color: black;
+  opacity: 0.8;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.pt1{
+  background-color: #04dc04;
+  padding: 10px;
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: center;
+}
+
+h1{
+  color: #04dc04;
+  text-align: center;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+.pt2 > hr{
+  border: 10px solid orange;
+  border-radius: 10px;
+  margin-right: 70%;
+}
+
+.pt3 > hr{
+  border: 10px solid #04dc04;
+  border-radius: 10px;
+  margin-right: 40%;
+}
+
+.pt4 > hr{
+  border: 10px solid red;
+  border-radius: 10px;
+  margin-right: 85%;
+}
+
+main{
+  color: white;
+  padding: auto;
+  margin: auto;
+}
+
+.pt2{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.pt3{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.pt4{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.pt2 > span{
+  font-size: 20px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.pt3 > span{
+  font-size: 20px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.pt4 > span{
+  font-size: 20px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+h3{
+  font-size: 15px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
