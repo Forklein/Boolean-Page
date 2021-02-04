@@ -1,2 +1,2 @@
 # Boolean-Page
-simple page in html and css
+Simple page in html and css
